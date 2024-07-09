@@ -40,20 +40,6 @@ Are you tired of sitting through endless virtual meetings? Do you dream of creat
 5. Watch as confusion and/or concern spreads across your colleagues' faces
 6. Exit the meeting with the confidence of someone who truly believes their "neighbor's peacock is screaming again"
 
-## 🤝 Contributing (Because Misery Loves Company)
-
-Found a bug? Have an idea for an even more outrageous excuse? We welcome your contributions! 
-
-1. Fork this repository (it's like copying someone's homework, but legal)
-2. Create your feature branch: `git checkout -b feature/AmazingExcuse`
-3. Commit your changes: `git commit -m 'Add excuse about alien abduction'`
-4. Push to the branch: `git push origin feature/AmazingExcuse`
-5. Submit a pull request (and pray we find it as funny as you do)
-
-## 📜 License
-
-This project is licensed under the "I Can't Believe It's Not Butter" License. You're free to use, modify, and distribute this software, as long as you solemnly swear you're up to no good.
-
 ## 🙏 Acknowledgments
 
 - Coffee ☕ - For making this project possible
